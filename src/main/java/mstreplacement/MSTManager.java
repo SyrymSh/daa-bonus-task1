@@ -1,4 +1,4 @@
-package com.mstreplacement;
+package mstreplacement;
 
 import java.util.*;
 
